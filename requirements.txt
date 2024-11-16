@@ -1,1 +1,4 @@
+git add .
+git commit -m "Add addition function and unit tests"
+git push origin main
 
